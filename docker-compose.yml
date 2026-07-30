@@ -1,6 +1,6 @@
-version: "3.8"
+version: "3.3"
 services:
-web:
-image: "hemantdockerhub7/notes-app"
-ports: 
-    - "8000:8000"
+  web:
+    image: "hemantdockerhub7/notes-app"
+    ports:
+      - "8000:8000"
